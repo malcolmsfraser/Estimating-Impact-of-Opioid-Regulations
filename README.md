@@ -1,1 +1,1 @@
-# Repository for Practical Data Science Mid-Semester Project
+# Repository for Practical Data Science Final Project
